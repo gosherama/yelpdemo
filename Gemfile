@@ -27,4 +27,4 @@ end
 gem 'carrierwave'
 gem 'fog-aws'
 gem 'figaro'
-
+gem "mini_magick"
