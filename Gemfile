@@ -25,3 +25,6 @@ group :development do
   gem 'spring'
 end
 gem 'carrierwave'
+gem 'fog-aws'
+gem 'figaro'
+
