@@ -1,6 +1,7 @@
 .jumbotron {
     background-color: #fdf8e1;
-    border: 1px solid #f2cb3b;
+    border: 2px solid #f2cb3b;
+    border-radius: 10px;
     h2 {
         color:#c41200;
         font-weight: bold;
@@ -25,4 +26,9 @@
 
 .container-fluid {
     padding: 10px 20px;
+}
+
+.yelppic {
+    width: 700px;
+    height: 200px;
 }
